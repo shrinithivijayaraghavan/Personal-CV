@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">   
+    <title>Shrinithi's Website </title>
+    <link rel="stylesheet" href="css/styles.css">
+
+    <style>
+        hr 
+    {
+        border-style: none;
+        border-top-style:dotted;
+        border-color: #3282B8;
+        border-width: 5px;
+        width: 10%;
+    }
+
+        
+        
+    </style>
+</head>
+<body>
+    <img src="/Users/shrinithivijayaraghavan/Desktop/pic.jpeg", height="150"> 
+    <div id="header">
+        <p id="name"> Shrinithi Vijayaraghavan</p>
+        <a href="https://outlook.office.com/mail/" target="_blank">
+            <p id="email">shrinithi21110442@snu.edu</p>
+        </a>
+    </div>
+    <div class="right">
+        <h3 style="color:blue;"> Highlights</h3>
+        <p>
+            <ul>
+                <li>Currently pursueing my undergraduate degree from Shiv Nadar University, Chennai</li>
+                <li>I'm doing a B.Tech degree in CSE with specialization in IoT</li>
+                <li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, 
+                    conflict resolution and negotiation and a very good team worker.</li>
+            </ul>
+        
+
+        </p>
+        <h3 style="color:blue;">Projects</h3>
+        <ol>
+           <li><h4 id="title">Kavach Hackathon(ongoing)</h4></li> 
+        <p>Designed and developed a technological solution that can accurately perform the Automatic
+            Number Plate Recognition(ANPR) along with Facial Recognition from the available CCTV feeds. The solution
+            recognizes number plates that are written in typical non-standard ways using varying font styles, sizes, designs, symbols
+            languages etc, i.e difficult to recognize by existing ANPR systems.
+        </p>
+        <li><h4 id="title">Grievance Redressal System</h4></li>
+        <p>Developed a grievance redressal system that allow people to file their grievances in a seemless manner by logging in</p>
+        <li><h4 id="title">Smart Walking stick for visually disabled people</h4></li>
+        <p>Designed and developed a smart walking stick using different sensors to help the visually impaired.</p>
+
+        </ol>
+        
+        <h3 style="color:blue;">Educational Qualifications</h3>
+        <table>
+        
+            <tr id="heading">
+                <th>Qualification</th>
+                <th>Board</th>
+                <th>Percentage </th>
+                <th>Year</th>
+                </tr>
+            <tr>
+                <td>10th Boards</td>
+                <td>ICSE</td>
+                <td>94.2%</td>
+                <td>2019</td>
+            </tr>
+            <tr>
+                <td>12th Boards</td>
+                <td>CBSE</td>
+                <td>92%</td>
+                <td>2021</td>
+            </tr>
+
+        </table>
+        
+        <h3 style="color:blue;">Extracurricular Activities</h3>
+        <p>
+            <ol>
+                <li>School Pupil leader (2019-2021)</li>
+                <li>Won District level Championship and played State level Football</li>
+                <li>Secretary of Youth services, Interact Club</li>
+            </ol>
+        </p>
+        <h3 style="color:blue;">Languages</h3>
+        <ul>
+            <li>Python</li>
+            <li>C</li>
+            <li>MySQL</li>
+            <li>HTML</li>
+
+        </ul>
+    </div>
+  </body>
